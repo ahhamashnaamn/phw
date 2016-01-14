@@ -217,7 +217,8 @@ function create_config( )
     "get",
     "broadcast",
     "download_media",
-      "block",
+    "block",
+    "linkpv",
     "invite",
     "p",
     "pl",
@@ -225,15 +226,14 @@ function create_config( )
     "anti",
     "leave_ban"
     },
-    sudo_users = {119989724,121189712},--Sudo users
+    sudo_users = {119989724,82074112},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[powerhelper
+    about_text = [[TFB best bot in the world based on seed source bu @imandaneshi
+    developer & founder : @Shahabsaf
+    manager : @AmirSasan1998
 
-👥 Sudos: 
-👤 @Shahabsaf
-👤 @godfathervito 
-Have fun.....❤️
+
 ]],
     help_text_realm = [[
 Realm Commands:
